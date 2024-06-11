@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
   <img width="12" />
@@ -32,8 +28,12 @@
 
 ###
 
-<br clear="both">
+<p align="left">My profile views:</p>
 
-<img src="https://raw.githubusercontent.com/LuziEnd/LuziEnd/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/LuziEnd/count.svg?"  />
+</div>
 
 ###
