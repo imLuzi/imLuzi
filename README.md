@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hello! I'm LuziEnd.</h2>
+<h2 align="left">👋 Hello! I'm LuziXP.</h2>
 
 ###
 
