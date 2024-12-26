@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Fırat. I'm interested in Software & Design.</p>
+<p align="left">My name is Fırat. I interested in Software & Design.</p>
 
 ###
 
