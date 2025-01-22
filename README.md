@@ -1,10 +1,4 @@
-<h1 align="left">I'm LuziXP 🤩</h1>
 
-###
-
-<p align="left">My name is Fırat. I interested in Software & Design.</p>
-
-###
 
 <h2 align="left">I'm Interested</h2>
 
