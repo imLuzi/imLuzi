@@ -7,7 +7,7 @@ const myProfile = {
   name: "Fırat",
   age: 16,
   country: "Türkiye",
-  likes: ["Coding", "Design", "Playing Games", "Hatsune Miku 🥰"]
+  likes: ["Coding", "Design", "Playing Games", "Hatsune Miku 🥰"],
   devStack: ["JavaScript", "TypeScript", "Discord.js", "React"],
   designStack: ["Figma", "Adobe Illustrator"]
 }
