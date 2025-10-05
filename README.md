@@ -14,4 +14,6 @@ const myProfile = {
 
 console.log(`Hello World! I'm ${myProfile.name} 👋`);
 ```
-<img src="https://github.com/imLuzi/imLuzi/blob/main/assets/footer.png?raw=true" alt="Footer" />
+<div align="center">
+  <img src="https://github.com/imLuzi/imLuzi/blob/main/assets/footer.png?raw=true" alt="Footer" />
+</div>
